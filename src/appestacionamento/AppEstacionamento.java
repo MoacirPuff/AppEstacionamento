@@ -2,7 +2,7 @@ package appestacionamento;
 
 import javax.swing.JOptionPane;
 
-/*          -Classe Main contendo a interação com o Usuário-
+/*         -Classe Main contendo a interação com o Usuário-
 
  */
 public class AppEstacionamento {
